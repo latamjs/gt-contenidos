@@ -1,1 +1,1 @@
-# wg-contenidos
+# gt-contenidos
