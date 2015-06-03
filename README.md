@@ -1,4 +1,5 @@
 # Contenidos
+[PT-BR](https://github.com/thebergamo/gt-contenidos/blob/master/README_PT.md)
 
 Es el Grupo de Trabajo de [LatamJS](http://latamjs.org) encargado de recopilar, traducir y generar contenidos para el sitio web de [LatamJS](http://latamjs.org) y las diferentes iniciativas que el surgan ya sean mini sitios, tutoriales, etc.
 
